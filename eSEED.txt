@@ -1,0 +1,7 @@
+BOUNUS:-
+
+
+1.I think the system perform as expected if the number of employees reached 2000 because there is no limit be setted for number of employees.
+
+
+2.The system is secured because no one can access the system without privilages (user (HR Employees) can access it) and employees can't access the system because they didn't have any priviliges.
